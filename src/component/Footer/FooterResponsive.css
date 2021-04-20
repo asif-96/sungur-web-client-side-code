@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    .bottom-section{
+        width: 100%;
+        margin: 10px auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .address, .links, .subscribe{
+        width: 100%;
+        padding: 20px 20px;
+    }
+}

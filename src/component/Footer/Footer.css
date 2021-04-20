@@ -1,0 +1,82 @@
+.bottom-bg{
+    background-color: #3d3d3d;
+    padding: 50px 0px;
+}
+
+.bottom-section{
+    width: 1200px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.address, .links, .subscribe{
+    width: 400px;
+    padding: 0px 20px;
+}
+
+.address img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.address ul li{
+    list-style: none;
+    margin-bottom: 5px;
+    color: #ddd;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.links ul li{
+    color: #ddd;
+    list-style: none;
+    cursor: pointer;
+}
+
+.links-txt, .subs-txt{
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.subs-para{
+    color: #ddd;
+    line-height: 1.5;
+}
+
+.subscribe input{
+    width: 200px;
+    border: 2px solid dimgrey;
+    padding: 16px;
+    font-size: 15px;
+    margin-right: 20px;
+}
+
+.btn-subscribe{
+    text-decoration: none;
+    color: #fff;
+    background-color: #d63031;
+    padding: 14px 30px;
+}
+
+.btn-subscribe:hover{
+    background-color: #eb4d4b;
+    transition: all 0.5s ease;
+    color: white;
+}
+
+footer p{
+    margin: 10px 0px;
+    text-align: center;
+}
+
+footer p a{
+    text-decoration: none;
+}

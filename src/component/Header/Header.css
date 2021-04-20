@@ -1,0 +1,19 @@
+.logo{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0px 20px;
+}
+
+.logo-title{
+    color: white;
+}
+
+.nav-color{
+    background-color: #05c46b;
+}
+
+.list-item{
+    font-size: 17px;
+}

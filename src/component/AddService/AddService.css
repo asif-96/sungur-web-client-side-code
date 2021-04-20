@@ -1,0 +1,11 @@
+input{
+    margin: 15px 0px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ecf0f1;
+}
+
+.div-border{
+    border-left: 2px solid #2980b9;
+}
